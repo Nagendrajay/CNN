@@ -3,18 +3,7 @@
 
 ## Table of Contents
 * [General Info]:
-  The data set contains the following diseases:
-    1.Actinic keratosis
-    2.Basal cell carcinoma
-    3.Dermatofibroma
-    4.Melanoma
-    5.Nevus
-    6.Pigmented benign keratosis
-    7.Seborrheic keratosis
-    8.Squamous cell carcinoma
-    9.Vascular lesion(#general-information)
-  
-* * [Technologies Used]: 
+* [Technologies Used]: 
 * [Conclusions]: 
 * [Acknowledgements]: 
 
@@ -51,11 +40,9 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Nagendrajay] - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
+
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
